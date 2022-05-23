@@ -1,7 +1,8 @@
 # Pro ReadMe Generator
     ##### undefined[undefined](undefined) [Email Me](jje341@yahoo.com) 
-    #### ReadMeGenerator© 2022 All Rights Reserved.  undefined All material must be cited or credited, when using material (free to use).
     
+    ![image](https://user-images.githubusercontent.com/101363899/169740889-1ba861d2-1825-4a8a-873d-c8118cc131cf.png)
+
     ## Table of Contents
     * [Repository Description](#Repository-Description)
     * [Installation Instructions](#Install)
